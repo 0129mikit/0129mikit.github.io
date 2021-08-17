@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: chartreuse;
+}
+
+.red-space {
+    background-color: red;
+}
+
+.green-space {
+    background-color: green;
+}
+
+.blue-space {
+    background-color: blue;
+}
